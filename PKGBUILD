@@ -4,11 +4,11 @@
 pkgname=tgl-ttf
 pkgver=1.0
 pkgrel=2
-url="http://www.1001fonts.com/tgl-font.html"
+url="https://www.1001fonts.com/tgl-font.html"
 license=('custom:SIL Open Font License v1.1')
 pkgdesc='TGL DIN ISO custom font'
 arch=('any')
-source=("http://dl.1001fonts.com/tgl.zip")
+source=("https://www.1001fonts.com/download/tgl.zip")
 depends=('fontconfig' 'xorg-font-utils')
 md5sums=('84e185e597f39e0a6629179fa2b0da5e')
 
